@@ -2,7 +2,7 @@
 title: "Getting and Cleaning Data - Course Project"
 output: github_document
 ---
-
+## Getting and Cleaning Data Course Project
 This is a repository for the getting and cleaning data course project in the Coursera Data Specialization from John Hopkins University.
 
 The repo contains files relating to the collecting and cleaning of experimental data from the UCI Human Activity Research Using Smartphones data sets. More information regarding the data can be found from the UCI website 
